@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+html,
+body,
+div {
+    margin: 0px;
+    padding: 0px;
+}
+button {
+    outline: none;
+}
+a {
+    color: #0094e1;
+    text-decoration: none;
+}
